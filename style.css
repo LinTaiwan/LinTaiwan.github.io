@@ -158,7 +158,7 @@
   font-family: "HelveticaNeueMdCn", Helvetica, sans-serif;
   font-family: 'Oswald', sans-serif;
   font-weight: 400;
-  
+  font-family:cursive;
   font-size: 20px;
 }
 
@@ -193,10 +193,12 @@
   display: inline;
   font-size: 30px;
   margin-right: 5px;
+  font-family:cursive;
 }
 
 .slider-dots li.active-dot {
   color: #363636;
+  font-family:cursive;
 }
 
 /* App links */
