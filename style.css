@@ -5,7 +5,7 @@
 }
 
 .container1 {
-  width: 990px;
+  width: 980px;
 }
 
 
@@ -13,7 +13,7 @@
 
 .header {
   background-color: rgba(255, 255, 255, 0.95);
-  border-bottom: 5px solid #ddd;
+  border-bottom: 3px solid #ddd;
   
   font-family: 'Oswald', sans-serif;
   font-weight: 500;
@@ -220,7 +220,7 @@
   font-size: 11px;
   font-weight: bold;
   padding: 14px 10px;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .nav li {
