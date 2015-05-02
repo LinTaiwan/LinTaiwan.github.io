@@ -13,7 +13,7 @@
 
 .header {
   background-color: rgba(255, 255, 255, 0.95);
-  border-bottom: 100px solid #ddd;
+  border-bottom: 0px solid #ddd;
   
   font-family: 'Oswald', sans-serif;
   font-weight: 500;
