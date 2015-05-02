@@ -11,7 +11,8 @@
   background-color: rgba(255, 255, 255, 0.95);
   border-bottom: 1px solid #ddd;
   
-  font-family: 'Oswald', sans-serif;
+  /*font-family: 'Oswald', sans-serif;*/
+  font-family:cursive;
   font-weight: 500;
   
   font-size: 17px;
@@ -64,11 +65,13 @@
 {
     color:#393c3d;
     font-size:24px;
+    font-family:cursive;
 }
 .neighborhood-guides h3
 {
     color:#393c3d;
     font-size:24px;
+    font-family:cursive;
 }
 .neighborhood-guides p
 {
