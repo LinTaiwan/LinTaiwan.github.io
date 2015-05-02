@@ -209,16 +209,17 @@
 .get-app img {
   height: 40px;
 }
-.learn-more {
-  background-color: #f7f7f7;
-}
 
-.learn-more h3 {
-  font-family: 'Shift', sans-serif;
-  font-size: 18px;
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
   font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
 }
 
-.learn-more a {
-  color: #00b0ff;
+.nav li {
+  display: inline;
 }
+
