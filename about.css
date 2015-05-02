@@ -72,8 +72,10 @@
 }
 .neighborhood-guides p
 {
-    font-size:20px;
+    font-size:18px;
     margin-bottom:18px;
+    text-align:justify; 
+    font-family:fantasy
 
 }
 
