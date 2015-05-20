@@ -3,9 +3,6 @@ var main = function(){
         $('.dropdown-menu').toggle();
     });
 
-    $('.dropdown-toggle1').click(function(){
-        $('.dropdown-menu1').toggle();
-    }); 
     
      $('.arrow-next').click(function() {
     var currentSlide = $('.active-slide');
